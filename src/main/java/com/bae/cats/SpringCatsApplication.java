@@ -1,13 +1,13 @@
-package com.qa.dinos;
+package com.bae.cats;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringDinosApplication {
+public class SpringCatsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringDinosApplication.class, args);
+		SpringApplication.run(SpringCatsApplication.class, args);
 	}
 
 }
